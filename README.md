@@ -13,10 +13,10 @@ Welcome to the **Tic Tac Toe Game** project! This classic game allows two player
 ## 🎨 Screenshots
 
 ### Game Board
-![Game Board](screenshots/game_board.png)
+<img width="413" alt="Screenshot 2024-07-29 at 5 13 56 PM" src="https://github.com/user-attachments/assets/ae311519-072b-4d4a-84ec-60b66ef0b9c8">
 
 ### Winning Message
-![Winning Message](screenshots/winning_message.png)
+<img width="506" alt="Screenshot 2024-07-29 at 5 13 33 PM" src="https://github.com/user-attachments/assets/f8838947-3804-449a-9727-bfb9c0c9275e">
 
 ## 🚀 Demo
 
